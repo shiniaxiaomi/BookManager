@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/dao/BookDao.java=UTF-8
+encoding//src/dao/BookTypeDao.java=UTF-8
+encoding//src/dao/UserDao.java=UTF-8
+encoding//src/model/Book.java=UTF-8
+encoding//src/model/BookType.java=UTF-8
+encoding//src/model/User.java=UTF-8
+encoding//src/util/DbUtil.java=UTF-8
+encoding//src/util/StringUtil.java=UTF-8
+encoding//src/view/BookAddInterFrm.java=UTF-8
+encoding//src/view/BookManageInterFrm.java=UTF-8
+encoding//src/view/BookTypeAddInterFrm.java=UTF-8
+encoding//src/view/BookTypeManageInterFrm.java=UTF-8
+encoding//src/view/Java1234InterFrm.java=UTF-8
+encoding//src/view/LogOnFrm.java=UTF-8
+encoding//src/view/MainFrm.java=UTF-8
